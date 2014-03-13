@@ -1,7 +1,13 @@
 package com.rs3e.network.protocol.packets;
 
 import java.nio.ByteBuffer;
-
+/**
+ * 
+ * RS3Emulation
+ * ActionSender.java
+ * Mar 12, 2014
+ * @author Belthazar
+ */
 public abstract class HeapBuffer {
 
 	/**

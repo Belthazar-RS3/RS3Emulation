@@ -3,7 +3,13 @@ package com.rs3e.network.protocol.packets.encoder;
 import com.rs3e.game.player.Player;
 import com.rs3e.network.protocol.messages.GameMessage;
 import com.rs3e.network.protocol.messages.GameMessage.MessageOpcode;
-
+/**
+ * 
+ * RS3Emulation
+ * ActionSender.java
+ * Mar 12, 2014
+ * @author Belthazar
+ */
 public class ActionSender {
 
 	/**

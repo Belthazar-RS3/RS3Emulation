@@ -1,5 +1,11 @@
 package com.rs3e.network.protocol.packets;
-
+/**
+ * 
+ * RS3Emulation
+ * ActionSender.java
+ * Mar 12, 2014
+ * @author Belthazar
+ */
 public final class PacketReader extends HeapBuffer {
 
 	/**

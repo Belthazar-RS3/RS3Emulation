@@ -3,7 +3,13 @@ package com.rs3e.network.protocol.packets.encoder.impl;
 import com.rs3e.network.protocol.messages.GameMessage;
 import com.rs3e.network.protocol.packets.PacketBuilder;
 import com.rs3e.network.protocol.packets.encoder.PacketEncoder;
-
+/**
+ * 
+ * RS3Emulation
+ * ActionSender.java
+ * Mar 12, 2014
+ * @author Belthazar
+ */
 public class GameMessageEncoder implements PacketEncoder<GameMessage> {
 
 	/**

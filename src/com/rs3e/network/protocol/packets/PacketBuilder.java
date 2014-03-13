@@ -1,7 +1,13 @@
 package com.rs3e.network.protocol.packets;
 
 import com.rs3e.utility.JagString;
-
+/**
+ * 
+ * RS3Emulation
+ * ActionSender.java
+ * Mar 12, 2014
+ * @author Belthazar
+ */
 public final class PacketBuilder extends HeapBuffer {
 
 	/**
